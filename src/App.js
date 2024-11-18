@@ -1,5 +1,5 @@
 import './css/App.css';
-import profilePicture from "./images/profilePicture.png";
+import profilePicture from "./images/me.jpeg";
 import Worklisting from "./components/Worklisting";
 import Projects from "./components/Allprojects";
 function App() {
