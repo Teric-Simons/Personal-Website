@@ -1,0 +1,98 @@
+
+.App{
+    display: flex;
+    flex-direction: row;
+    margin: 3.75em;
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: white;
+}
+
+.left-side{
+    max-width: 300px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    
+}
+
+
+
+.personal-information{
+    padding: 1.5em;
+    text-align: center;
+    color: #65656d;
+  
+
+}
+
+.name{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}
+a{
+    text-decoration: underline;
+}
+
+a:link {
+    color: #65656d;
+}
+
+.profile-picture{
+    height: 188px;
+    width: 188px;
+    object-fit: cover;
+    border-radius: 50%;
+   
+}
+
+.right-side{
+    flex: 1;
+    
+    
+}
+
+.background-information{
+    padding: 1.5em;
+    text-align: center;
+    color: #65656d;
+
+}
+
+.background-information p{
+    line-height: 28px;
+}
+
+h1{
+    color: black;
+}
+
+.all-projects{
+    padding: 1.5em;
+    text-align: center;
+}
+
+.project-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg{
+    width: 20px;
+    height: 20px;
+    margin-right: 0.375em;
+}
+
+@media (max-width: 900px) {
+    .App {
+      flex-direction: column;
+    }
+
+    .left-side{
+        
+        flex: 1;
+        max-width: 900px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+  }

@@ -1,0 +1,43 @@
+.project{
+color: #65656d;
+border: 1px solid black;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+border-radius: 10px;
+padding:0.75em;
+}
+
+img{
+    width:30px;
+    height: 30px;
+}
+
+.project-logo{
+    display: flex;
+
+}
+
+.project-title {
+	margin-bottom: 1em;
+	font-weight: 700;
+}
+
+.project-description{
+    font-size: 0.9375rem;
+    line-height: 28px;
+
+}
+
+.framework{
+    font-size:0.9375rem;
+    color: black;
+    padding: 0.3125em;
+}
+
+.project-link-text{
+    margin-top: 0.3125em;
+}
+
+.project-link{
+    display: flex;
+    justify-content: center;
+}

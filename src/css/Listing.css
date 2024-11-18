@@ -1,0 +1,39 @@
+.listing{
+    display: flex;
+    flex-direction: row;
+
+    color: #65656d;
+    border-bottom: 1px solid #65656d;
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+    margin-top: -0.625em;
+}
+
+.all-listings{
+    padding: 0.75em;
+}
+
+.loc-date{
+padding-right: 0.125em;
+width: 140px;
+min-width: 140px;
+}
+
+.loc-date p:first-of-type {
+    font-weight: bold;
+}
+
+.loc-date p:nth-of-type(2) {
+    font-size: 0.75rem;
+}
+
+
+
+.role{
+   display: flex;
+   align-items: center;
+   padding-left: 0.625em;
+   font-size: 0.875rem;
+}
+
