@@ -24,7 +24,7 @@ const projects = [
     {
         title: "EduBook chatbot",
         description:
-            "EduBook chatbot that has the ability to query information, summarize pages, and generate quiz questions from textbooks.",
+            "EduBook chatbot that has the ability to query information, summarize pages, and generate quiz questions from textbooks using Open-Ai technology and BM-25 Algorithm.",
         logo: "https://media.licdn.com/dms/image/D4D12AQFWFLeRgjzEdA/article-cover_image-shrink_600_2000/0/1674452473282?e=2147483647&v=beta&t=CTX82s8PK-F_rq_u0U5-qx_Pavm7l6y0WolsperM6N0",
         linkText: "View Project",
         link: "https://github.com/Teric-Simons/Capstone",
