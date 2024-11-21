@@ -3,10 +3,29 @@ import '../css/Allprojects.css';
 
 const projects = [
     {
+        title: "Personal Website",
+        description:
+        "A personal website showcasing  GitHub projects, and personal information.",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        linkText: "View Project",
+        link: "https://github.com/Teric-Simons/Personal-Website",
+        framework:"Created with React",
+    },
+
+    {
+        title: "Invoice Generator",
+        description:
+        "A website that generates an PDF invoice based on user information.",
+        logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+        linkText: "View Project",
+        link: "https://github.com/Teric-Simons/Invoice-Generator",
+        framework:"Created with React",
+    },
+    {
         title: "EduBook chatbot",
         description:
             "EduBook chatbot that has the ability to query information, summarize pages, and generate quiz questions from textbooks.",
-        logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+        logo: "https://media.licdn.com/dms/image/D4D12AQFWFLeRgjzEdA/article-cover_image-shrink_600_2000/0/1674452473282?e=2147483647&v=beta&t=CTX82s8PK-F_rq_u0U5-qx_Pavm7l6y0WolsperM6N0",
         linkText: "View Project",
         link: "https://github.com/Teric-Simons/Capstone",
         framework:"Created with Flask",
@@ -16,20 +35,10 @@ const projects = [
         title: "Music Mentor",
         description:
             "A website similar to preply where users can upload music sheets,search for music sheets and hire tutors.",
-        logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+            logo: "https://media.licdn.com/dms/image/D4D12AQFWFLeRgjzEdA/article-cover_image-shrink_600_2000/0/1674452473282?e=2147483647&v=beta&t=CTX82s8PK-F_rq_u0U5-qx_Pavm7l6y0WolsperM6N0",
         linkText: "View Project",
         link: "https://github.com/Teric-Simons/Music-Mentor",
         framework:"Created with Flask",
-    },
-
-    {
-        title: "Personal Website",
-        description:
-        "A personal website showcasing  GitHub projects, and personal information.",
-        logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-        linkText: "View Project",
-        link: "https://github.com/Teric-Simons/Personal-Website",
-        framework:"Created with React",
     },
 
     {
