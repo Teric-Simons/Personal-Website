@@ -31,7 +31,7 @@ I am passionate about creating high-quality code and solving complex problems. M
 - **GitHub:** [Teric Simons](#)
 - **Location:** Kingston, Jamaica
 - **Hire Status:** Available
-- **Contact Me:** [Link](#)
+- **Contact Me:** [tericsimons12@gmail.com](mailto:tericsimons12@gmail.com)
 
 Feel free to reach out if you have any questions or opportunities!
 
