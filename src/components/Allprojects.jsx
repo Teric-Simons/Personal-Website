@@ -28,7 +28,7 @@ const projects = [
         logo: "https://media.licdn.com/dms/image/D4D12AQFWFLeRgjzEdA/article-cover_image-shrink_600_2000/0/1674452473282?e=2147483647&v=beta&t=CTX82s8PK-F_rq_u0U5-qx_Pavm7l6y0WolsperM6N0",
         linkText: "View Project",
         link: "https://github.com/Teric-Simons/Capstone",
-        framework:"Created with Flask",
+        framework:"Created with Flask, Vue.js, PostgreSQL",
     },
 
     {
@@ -38,7 +38,7 @@ const projects = [
             logo: "https://media.licdn.com/dms/image/D4D12AQFWFLeRgjzEdA/article-cover_image-shrink_600_2000/0/1674452473282?e=2147483647&v=beta&t=CTX82s8PK-F_rq_u0U5-qx_Pavm7l6y0WolsperM6N0",
         linkText: "View Project",
         link: "https://github.com/Teric-Simons/Music-Mentor",
-        framework:"Created with Flask",
+        framework:"Created with Flask, Vue.js",
     },
 
     {
