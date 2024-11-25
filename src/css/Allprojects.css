@@ -6,3 +6,8 @@
   
  
 }
+@media (max-width: 900px) {
+    .all-projects-container{
+        grid-template-columns: 1fr;
+    }
+}

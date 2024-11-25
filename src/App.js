@@ -28,7 +28,7 @@ function App() {
       </div>
       <div className="right-side">
         <div className="background-information">
-          <h1>Full Stack Developer</h1>
+          <h1 className="typing-effect">Full Stack Developer</h1>
           <p>I am a Full Stack Developer with expertise in Java, Python, and JavaScript. I have experience in building scalable, secure, and reliable web applications using frameworks such as Flask, React JS, and Vue JS. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. My toolkit includes HTML, CSS, Git/GitHub, API integration, VSCode, PostgreSQL, and MySQL. I am always looking for new challenges and opportunities to grow as a developer.</p>
         </div>
         <div className="all-projects">
