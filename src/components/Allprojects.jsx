@@ -3,13 +3,13 @@ import '../css/Allprojects.css';
 
 const projects = [
     {
-        title: "Personal Website",
+        title: "Netflix Clone",
         description:
-        "A personal website showcasing  GitHub projects, and personal information.",
+        "Netflix Clone created using React, Express JS and firebase.",
         logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
         linkText: "View Project",
-        link: "https://github.com/Teric-Simons/Personal-Website",
-        framework:"Created with React",
+        link: "https://netflix-3fc8c.web.app/",
+        framework:"Created with React,Express JS and firebase",
     },
 
     {
